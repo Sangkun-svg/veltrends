@@ -1,27 +1,56 @@
 # clone veltrends
-Making Board system using React &amp; NodeJs &amp; Typescript
 
+Making Board system using React &amp; NodeJs &amp; Typescript
 
 ## Introduction
 
+This repository is ....
+
+---
+
 ## Use Case
+
+---
 
 ## Stack
 
- 
- ### FE
- ### BE
- ### DevOps
+### FE
 
- 
+- React 16
+- cypress
+- etc..
 
-###  Collaboration & Tools
- ### Design
- ### Notion
+### BE
+
+- NodeJs
+- fastify
+- ...
+
+### DevOps
+
+- MySQL
+- etc...
+
+---
+
+## Tools
+
+#### Design
+
+- Figma
+
+#### etc
+
+- Notion
+
+---
 
 ## Architecture
 
+---
+
 ## Issue
 
-## ERD
+---
 
+## ERD
