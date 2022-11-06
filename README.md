@@ -1,4 +1,4 @@
-# veltrends
+# clone veltrends
 Making Board system using React &amp; NodeJs &amp; Typescript
 
 
